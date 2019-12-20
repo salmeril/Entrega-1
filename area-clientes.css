@@ -236,3 +236,11 @@ body{
     text-decoration: underline;
 
 } */
+
+
+.contenido-hijo:hover{
+    /* background-color: grey; */
+    box-shadow: orange 10px;
+    transition: all 1s ease-in-out;
+    /* transform: scale(2); */
+    color: orange;
